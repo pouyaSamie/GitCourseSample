@@ -11,10 +11,17 @@
   -git commit
   -Track/ untrack, stage ,commit
   -git show 
+  -git diff
   -git log
+    --oneline
+    --graph
   - .gitignore
-  -git reset --hard
-  -git checkout <logId>
+  -git checkout 
+    -from working area
+    -from commit
+  -git reset 
+    --hard
+
   -git stash save/pop/list
 - Branches
   -git checkout<branchName>
@@ -27,6 +34,7 @@
   -git pull
   -git clone
 - Advance 
+  -git reflog
   -git rebase
   -git rebase -i
   -mergtool
