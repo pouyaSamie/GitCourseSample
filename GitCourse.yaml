@@ -1,0 +1,34 @@
+- What is Git?
+  -Version Control
+  -Remote & online
+  -GitHub, GitLab
+- Git Internal
+- Basic Commands
+  -git init
+  -git config --global user.name user.email
+  -git add <file>
+  -git status
+  -git commit
+  -Track/ untrack, stage ,commit
+  -git show 
+  -git log
+
+  - .gitignore
+  -git reset --hard
+  -git checkout <logId>
+  -git stash save/pop/list
+- Branches
+  -git checkout<branchName>
+  -git Merge Branch
+
+- Remote Commands
+  -git push
+  -git pull
+  -git clone
+
+- Advance 
+  -git rebase
+
+
+  
+  
