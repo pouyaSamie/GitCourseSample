@@ -1,6 +1,6 @@
 <center><h2>Git Course</h2></center> 
 
- - [ ] What is **Git** ?
+ - [ ] What is Git ?
  
   *  - [ ] Version Control
   *  - [ ] Remote & online
