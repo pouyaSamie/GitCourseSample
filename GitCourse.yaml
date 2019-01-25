@@ -12,7 +12,6 @@
   -Track/ untrack, stage ,commit
   -git show 
   -git log
-
   - .gitignore
   -git reset --hard
   -git checkout <logId>
@@ -23,11 +22,15 @@
 
 - Remote Commands
   -git push
+  -git fetch
+  -git Merge (remote/branch)
   -git pull
   -git clone
-
 - Advance 
   -git rebase
+  -git rebase -i
+  -mergtool
+
 
 
   
