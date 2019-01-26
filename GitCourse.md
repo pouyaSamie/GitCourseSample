@@ -4,16 +4,17 @@
  
   *  - [ ] Version Control
   *  - [ ] Remote & online
-  *  - [ ] GitHub, GitLab
+  *  - [ ] GitHub, GitLab, Bitbucket
 *  - [ ] Git Internals
-   * - [ ] head -- tree --  blob
+   * - [ ] Three Tree
+   * - [ ] Head , Blob, refs, tree
+   * - [ ] Track/ untrack, stage ,commit
 * Basic Commands
   * - [ ] git init
   * - [ ] git config --global user.name user.email
   * - [ ] git add `<file>`
   * - [ ] git status
   * - [ ] git commit
-  * - [ ] Track/ untrack, stage ,commit
   * - [ ] git show 
   * - [ ] git diff
   * - [ ] git log
@@ -27,6 +28,7 @@
     * --hard
 
   * - [ ] git stash `save/pop/list`
+  * - [ ] git clean -df
 * Branches
   * - [ ] git checkout `<branchName>`
   * - [ ] git Merge  `<branchName>`
@@ -41,7 +43,7 @@
   * - [ ] git reflog
   * - [ ] git rebase
   * - [ ] git rebase -i
-  * - [ ] mergtool
+  * - [ ] mergtools
 
   
   
